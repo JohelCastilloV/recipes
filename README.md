@@ -10,6 +10,8 @@ PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Alg
 * Web Share API
 * Creado con [Create React App](https://github.com/facebookincubator/create-react-app).
 
+[Ver la aplicacion](https://recetas-gkdhnrzuit.now.sh/)
+
 ## Scripts
 
 * `npm install` para instalar las dependencias
@@ -19,3 +21,4 @@ PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Alg
 ## Licencia
 
 MIT
+
